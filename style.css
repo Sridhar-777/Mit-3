@@ -1,0 +1,102 @@
+
+.parent {
+    background-color:  hsl(0, 100%, 74%) ;
+    height: 1200px;
+    width: 1200px;
+    padding: 90px;
+    background-image: url(./images/images/bg-intro-desktop.png);   
+}
+.white{
+    background-color: white;
+    height: 400px;
+    width: 500px;
+    border-radius: 10px;
+    margin-left: 600px;
+   
+}
+.blue{
+    background-color: blue;
+    height: 40px;
+    width: 500px;
+    border-radius: 10px;
+    margin-left: 600px;
+   margin-bottom: 50px;
+}
+.blue p{
+    color: white;
+    text-align: center;
+    padding: 7px;
+}
+.code{
+    color: white;
+    width: 500px;
+    position: absolute;
+    top: 300px;
+}
+.box input{
+    margin-left: 50px;
+    height: 30px;
+    width: 300px;
+    border-radius: 7px;
+    margin-top: 30px;
+    
+}
+.box2 input{
+    
+    margin-left: 50px;
+    height: 30px;
+    width: 300px;
+    border-radius: 7px;
+    margin-top: 30px;
+    
+}
+.box3 input{ 
+    
+    margin-left: 50px;
+    height: 30px;
+    width: 300px;
+    border-radius: 7px;
+    margin-top: 30px;
+    
+}
+.box4 input{
+
+    margin-left: 50px;
+    height: 30px;
+    width: 300px;
+    border-radius: 7px;
+    margin-top: 30px;
+    
+}
+.green{
+    background-color: green;
+    width: 450px;
+    height: 50px;
+    border-radius: 10px;
+    margin-left: 30px;
+    text-align: center;
+    
+    padding: 1px;
+    margin-top: 50px;
+
+}
+.green h1{
+    padding: -20px;
+    margin-top: 6PX;
+    color: white;
+}
+.last p{
+    color: grey;
+    margin-left: 20px;
+    
+
+}
+.last {
+    height: 2px;
+    text-align: center;
+    
+}
+    
+
+    
+
